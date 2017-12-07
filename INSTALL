@@ -1,0 +1,9 @@
+Building Bitglobalcoin
+
+See doc/readme-qt.rst for instructions on building Bitglobalcoin Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bitglobalcoin.
+
+See doc/build-*.txt for instructions on building Bitglobalcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bitglobalcoin.
